@@ -1,0 +1,79 @@
+
+body {
+    background: linear-gradient(red, blue);
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin: 0 auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color:white;
+    white-space: nowrap;
+}
+
+.poster img {
+    width: 100%;
+    height: auto;
+}
+
+.photoActeur {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.distribution {
+
+   padding:10px;
+   background-color: blue;
+   max-width: 300px;
+   margin:20px auto;
+   text-align: center;
+   color:white;
+}
+
+
+.subtext {
+    font-size: 12px; 
+    color: blue; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+}
+
+
+
+.container {
+    max-width: 2000px; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: white; 
+}
+
+.title {
+
+    max-width: 200px; 
+    margin: 10px; 
+    padding: 10px; 
+    background-color: black; 
+}
